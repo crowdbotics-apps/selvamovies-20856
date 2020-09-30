@@ -14,7 +14,6 @@ import ArticleList117143Navigator from '../features/ArticleList117143/navigator'
 import ArticleList117126Navigator from '../features/ArticleList117126/navigator';
 import ArticleList117125Navigator from '../features/ArticleList117125/navigator';
 import ArticleList117124Navigator from '../features/ArticleList117124/navigator';
-import CalendarView3117121Navigator from '../features/CalendarView3117121/navigator';
 
 /**
  * new navigators can be imported here
@@ -32,7 +31,6 @@ ArticleList117143: { screen: ArticleList117143Navigator },
 ArticleList117126: { screen: ArticleList117126Navigator },
 ArticleList117125: { screen: ArticleList117125Navigator },
 ArticleList117124: { screen: ArticleList117124Navigator },
-CalendarView3117121: { screen: CalendarView3117121Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
